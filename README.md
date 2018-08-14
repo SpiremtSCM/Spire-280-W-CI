@@ -1,2 +1,2 @@
-# Spire-280W-D--CI
-Spire 280W-D--CI
+# Spire-280W-CI
+Spire 280W-CI
